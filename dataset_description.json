@@ -1,0 +1,29 @@
+{
+    "Name": "A multi-modal fitting approach to construct single-neuron models with patch-clamp and high-density microelectrode arrays",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "This dataset contains simultaneous intracellular whole-cell patch clamp and extracellular high-density microelectrode array (HD-MEA) recordings.\nIt includes data from two files, corresponding to two recorded neurons. Each NWB file contains several runs of 8 eCode protocols, with syncronized intracellular voltages, stimulus currents, and extracellular voltages.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Damart, Tanguy",
+        "Bartram, Julian",
+        "Mandge, Darshan",
+        "Xue, Xiaohan",
+        "Zbili, Mickael",
+        "G\u00e4nswein, Tobias",
+        "Jaquier, Aurelien",
+        "Emmenegger, Vishalini",
+        "Markram, Henry",
+        "Hierlemann, Andreas",
+        "Van Geit, Werner"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
